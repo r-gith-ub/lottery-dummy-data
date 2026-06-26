@@ -1,9 +1,11 @@
 {
-  "lotteryname": "Lucky Star Weekly Lottery",
-  "draw_id": "LSW-2026-0626-001",
-  "date": "2026-06-26",
-  "time": "20:00:00",
-  "location": "Kerala, India",
+  "lottery_name": "Samrudhi",
+  "lottery_code": "SM",
+  "draw_id": "32",
+  "draw_serial": "75105",
+  "draw_date": "07-12-2025",
+  "draw_time": "15:00",
+  "location": "Gorky Bhavan, Near Bakery Junction, Thiruvananthapuram",
   "results": {
     "1st_place": {
       "ticket_number": "LS458921",
