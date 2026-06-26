@@ -9,51 +9,57 @@
       "lotteryname": "Samrudhi",
       "draw_id": "SM-32",
       "draw_date": "2025-12-07",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/refs/heads/main/lottery/results/SM-32.json"
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/SM-32.json"
     },
     {
       "lotteryname": "Bhagyathara",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+      "draw_id": "BT-12",
+      "draw_date": "2025-12-04",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/BT-12.json"
     },
     {
       "lotteryname": "Sthree Shakti",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+      "draw_id": "SS-45",
+      "draw_date": "2025-12-02",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/SS-45.json"
     },
     {
       "lotteryname": "Dhanalekshmi",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+      "draw_id": "DL-18",
+      "draw_date": "2025-11-30",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/DL-18.json"
     },
     {
       "lotteryname": "Karunya Plus",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+      "draw_id": "KN-23",
+      "draw_date": "2025-11-28",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/KN-23.json"
     },
     {
       "lotteryname": "Suvarna Keralam",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+      "draw_id": "SK-09",
+      "draw_date": "2025-11-26",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/SK-09.json"
     },
     {
       "lotteryname": "Karunya",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+      "draw_id": "KR-71",
+      "draw_date": "2025-11-25",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/KR-71.json"
     }
   ],
   "lottery_bumper_results": [
     {
       "lotteryname": "Thiruvonam Bumper",
-      "draw_id": "BR-105",
-      "date": "2025-10-04",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+      "draw_id": "TB-2025",
+      "draw_date": "2025-10-04",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/TB-2025.json"
+    },
+    {
+      "lotteryname": "Christmas New Year Bumper",
+      "draw_id": "XB-2025",
+      "draw_date": "2025-12-24",
+      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/XB-2025.json"
     }
   ]
 }
