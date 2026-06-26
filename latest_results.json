@@ -7,8 +7,8 @@
   "lottery_weekly_results": [
     {
       "lotteryname": "Samrudhi",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
+      "draw_id": "SM-32",
+      "draw_date": "2025-12-07",
       "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/refs/heads/main/lottery/results/SM-32.json"
     },
     {
