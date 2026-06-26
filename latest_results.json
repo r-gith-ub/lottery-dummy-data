@@ -6,42 +6,54 @@
   },
   "lottery_weekly_results": [
     {
-      "lotteryname": "Lucky Star Weekly Lottery",
+      "lotteryname": "Samrudhi",
       "draw_id": "LS-100",
       "date": "2026-06-26",
       "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
     },
     {
-      "lotteryname": "Golden Star Weekly Lottery",
-      "draw_id": "LS-099",
-      "date": "2026-06-25",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-099.json"
+      "lotteryname": "Bhagyathara",
+      "draw_id": "LS-100",
+      "date": "2026-06-26",
+      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
     },
     {
-      "lotteryname": "Medium Star Weekly Lottery",
-      "draw_id": "LS-098",
-      "date": "2026-06-24",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-098.json"
+      "lotteryname": "Sthree Shakti",
+      "draw_id": "LS-100",
+      "date": "2026-06-26",
+      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+    },
+    {
+      "lotteryname": "Dhanalekshmi",
+      "draw_id": "LS-100",
+      "date": "2026-06-26",
+      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+    },
+    {
+      "lotteryname": "Karunya Plus",
+      "draw_id": "LS-100",
+      "date": "2026-06-26",
+      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+    },
+    {
+      "lotteryname": "Suvarna Keralam",
+      "draw_id": "LS-100",
+      "date": "2026-06-26",
+      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
+    },
+    {
+      "lotteryname": "Karunya",
+      "draw_id": "LS-100",
+      "date": "2026-06-26",
+      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
     }
   ],
-  "lottery_yearly_results": [
+  "lottery_bumper_results": [
     {
-      "lotteryname": "Lucky Star Weekly Lottery",
-      "draw_id": "LS-100",
-      "date": "2026-06-26",
+      "lotteryname": "Thiruvonam Bumper",
+      "draw_id": "BR-105",
+      "date": "2025-10-04",
       "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
-    },
-    {
-      "lotteryname": "Golden Star Weekly Lottery",
-      "draw_id": "LS-099",
-      "date": "2026-06-25",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-099.json"
-    },
-    {
-      "lotteryname": "Medium Star Weekly Lottery",
-      "draw_id": "LS-098",
-      "date": "2026-06-24",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-098.json"
     }
   ]
 }
