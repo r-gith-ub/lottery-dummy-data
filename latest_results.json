@@ -22,30 +22,6 @@
       "draw_id": "LS-098",
       "date": "2026-06-24",
       "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-098.json"
-    },
-    {
-      "lotteryname": "Lucky Star Weekly Lottery",
-      "draw_id": "LS-097",
-      "date": "2026-06-23",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-097.json"
-    },
-    {
-      "lotteryname": "Lucky Star Weekly Lottery",
-      "draw_id": "LS-096",
-      "date": "2026-06-22",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-096.json"
-    },
-    {
-      "lotteryname": "Lucky Star Weekly Lottery",
-      "draw_id": "LS-095",
-      "date": "2026-06-21",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-095.json"
-    },
-    {
-      "lotteryname": "Lucky Star Weekly Lottery",
-      "draw_id": "LS-094",
-      "date": "2026-06-20",
-      "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-094.json"
     }
   ]
 }
