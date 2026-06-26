@@ -12,13 +12,13 @@
       "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-100.json"
     },
     {
-      "lotteryname": "Lucky Star Weekly Lottery",
+      "lotteryname": "Golden Star Weekly Lottery",
       "draw_id": "LS-099",
       "date": "2026-06-25",
       "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-099.json"
     },
     {
-      "lotteryname": "Lucky Star Weekly Lottery",
+      "lotteryname": "Medium Star Weekly Lottery",
       "draw_id": "LS-098",
       "date": "2026-06-24",
       "json_url": "https://raw.githubusercontent.com/username/repository/main/LS-098.json"
