@@ -10,62 +10,14 @@
       "draw_id": "SM-32",
       "draw_date": "2025-12-07",
       "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/SM-32.json"
-    },
-    {
-      "lotteryname": "Bhagyathara",
-      "draw_id": "BT-12",
-      "draw_date": "2025-12-04",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/BT-12.json"
-    },
-    {
-      "lotteryname": "Sthree Shakti",
-      "draw_id": "SS-45",
-      "draw_date": "2025-12-02",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/SS-45.json"
-    },
-    {
-      "lotteryname": "Dhanalekshmi",
-      "draw_id": "DL-18",
-      "draw_date": "2025-11-30",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/DL-18.json"
-    },
-    {
-      "lotteryname": "Karunya Plus",
-      "draw_id": "KN-23",
-      "draw_date": "2025-11-28",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/KN-23.json"
-    },
-    {
-      "lotteryname": "Suvarna Keralam",
-      "draw_id": "SK-10",
-      "draw_date": "2025-12-09",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/SK-09.json"
-    },
-    {
-      "lotteryname": "Karunya",
-      "draw_id": "KR-72",
-      "draw_date": "2025-12-08",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/KR-71.json"
     }
   ],
   "lottery_bumper_results": [
-    {
-      "lotteryname": "Thiruvonam Bumper",
-      "draw_id": "TB-2025",
-      "draw_date": "2025-10-04",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/TB-2025.json"
-    },
     {
       "lotteryname": "Monsoon Bumper",
       "draw_id": "BR-110",
       "draw_date": "2026-07-18",
       "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/BR-110.json"
-    },
-    {
-      "lotteryname": "Christmas New Year Bumper",
-      "draw_id": "XB-2025",
-      "draw_date": "2025-12-24",
-      "json_url": "https://raw.githubusercontent.com/r-gith-ub/lottery-dummy-data/main/lottery/results/XB-2025.json"
     }
   ]
 }
