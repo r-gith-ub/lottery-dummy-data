@@ -43,9 +43,10 @@
       "ticket_number": "LS129834",
       "prize_amount": 500
     },
-    "Consolation": {
-      "ticket_number": "LS129834",
-      "prize_amount": 500
+    "Consolation": 
+      "winner_series": [ "MO", "MP", "MR", "MS", "MT", "MU", "MV", "MW", "MX", "MY", "MZ" ],
+      "winner": 784074,
+      "prize_amount": 5000
     }
   },
   "status": "completed",
