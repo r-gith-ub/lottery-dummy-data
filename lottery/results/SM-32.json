@@ -7,43 +7,43 @@
   "draw_time": "15:00",
   "location": "Gorky Bhavan, Near Bakery Junction, Thiruvananthapuram",
   "results": {
-    "1st_prize": {
+    "1st": {
       "ticket_number": "LS458921",
       "prize_amount": 10000000
     },
-    "2nd_prize": {
+    "2nd": {
       "ticket_number": "LS784512",
       "prize_amount": 500000
     },
-    "3rd_prize": {
+    "3rd": {
       "ticket_number": "LS239874",
       "prize_amount": 100000
     },
-    "4th_prize": {
+    "4th": {
       "ticket_number": "LS672345",
       "prize_amount": 50000
     },
-    "5th_prize": {
+    "5th": {
       "ticket_number": "LS918276",
       "prize_amount": 25000
     },
-    "6th_prize": {
+    "6th": {
       "ticket_number": "LS345789",
       "prize_amount": 10000
     },
-    "7th_prize": {
+    "7th": {
       "ticket_number": "LS556712",
       "prize_amount": 5000
     },
-    "8th_prize": {
+    "8th": {
       "ticket_number": "LS803456",
       "prize_amount": 1000
     },
-    "9th_prize": {
+    "9th": {
       "ticket_number": "LS129834",
       "prize_amount": 500
     },
-    "Consolation_prize": {
+    "Consolation": {
       "ticket_number": "LS129834",
       "prize_amount": 500
     }
