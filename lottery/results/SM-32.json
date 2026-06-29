@@ -8,20 +8,20 @@
   "location": "Gorky Bhavan, Near Bakery Junction, Thiruvananthapuram",
   "results": {
     "1st": {
-      "ticket_number": "LS458921",
+      "winner": "MN-784074",
       "prize_amount": 10000000
     },
     "2nd": {
-      "ticket_number": "LS784512",
-      "prize_amount": 500000
+      "winner": "MR-120629",
+      "prize_amount": 2500000
     },
     "3rd": {
-      "ticket_number": "LS239874",
-      "prize_amount": 100000
+      "winner": "MU-282023",
+      "prize_amount": 500000
     },
     "4th": {
-      "ticket_number": "LS672345",
-      "prize_amount": 50000
+      "winners": ["0176", "0300", "0462", "0676", "0870", "1366", "1544", "1676"],
+      "prize_amount": 5000
     },
     "5th": {
       "ticket_number": "LS918276",
